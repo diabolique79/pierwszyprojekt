@@ -7,6 +7,8 @@ public class HelloWorld {
         System.out.println("Run Forest3, run");
         System.out.println("Run Forest4, run");
         System.out.println("Run Forest5, run");
+        System.out.println("Run Forest666, run");
+        System.out.println("SUper!!!");
     }
     }
 
